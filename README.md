@@ -1,2 +1,4 @@
 # second
 training 
+## notes
+
